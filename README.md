@@ -1,4 +1,15 @@
-# Line Bot 教學
+# Line-Bot
+Dcard 小幫手應用
+
+製作一個小幫手機器人，輸入看板名稱後將會回傳相關文章信息。
+
+運用技術：Python, Heroku, LINE Developers, GIT
+
+開發工具：VS Code 
+
+專案環境：OS - Windows
+
+## 教學
 
 本教程介紹如何使用 Python LINE Bot SDK 在 Heroku 上架設一個簡單的回話機器人。
 <!--more-->
